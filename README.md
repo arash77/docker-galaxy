@@ -5,7 +5,6 @@
 ![docker pulls](https://img.shields.io/docker/pulls/bgruening/galaxy-stable.svg) ![docker stars](https://img.shields.io/docker/stars/bgruening/galaxy-stable.svg)
 [![docker image stats](https://images.microbadger.com/badges/image/bgruening/galaxy-stable.svg)](https://microbadger.com/images/bgruening/galaxy-stable "Get your own image badge on microbadger.com")
 
-
 Galaxy Docker Image
 ===================
 
